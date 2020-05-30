@@ -1,3 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="0 0 640 640" width="640" height="640"><defs><path d="M600 254.11C600 372.28 474.54 468.21 320 468.21C165.46 468.21 40 372.28 40 254.11C40 135.94 165.46 40 320 40C474.54 40 600 135.94 600 254.11Z" id="bbnRYkCWJ0"></path><path d="M40 260L600 260L600 556.19L40 556.19L40 260Z" id="e29OSMTTtx"></path><path d="M40 247.73L600 247.66L600 266.12L40 266.19L40 247.73Z" id="d3Qna95EoL"></path><path d="M200 240C200 262.08 182.08 280 160 280C137.92 280 120 262.08 120 240C120 217.92 137.92 200 160 200C182.08 200 200 217.92 200 240Z" id="b24CQGEmyZ"></path><path d="M400 240C400 262.08 382.08 280 360 280C337.92 280 320 262.08 320 240C320 217.92 337.92 200 360 200C382.08 200 400 217.92 400 240Z" id="bQPS3YVbJ"></path><path d="M120 560C120 582.08 102.08 600 80 600C57.92 600 40 582.08 40 560C40 537.92 57.92 520 80 520C102.08 520 120 537.92 120 560Z" id="a2T4RbZ9RD"></path><path d="M200 560C200 582.08 182.08 600 160 600C137.92 600 120 582.08 120 560C120 537.92 137.92 520 160 520C182.08 520 200 537.92 200 560Z" id="eNatbMAQr"></path><path d="M280 560C280 582.08 262.08 600 240 600C217.92 600 200 582.08 200 560C200 537.92 217.92 520 240 520C262.08 520 280 537.92 280 560Z" id="cocn2oEs"></path><path d="M360 560C360 582.08 342.08 600 320 600C297.92 600 280 582.08 280 560C280 537.92 297.92 520 320 520C342.08 520 360 537.92 360 560Z" id="b2gGVK0txv"></path><path d="M440 560C440 582.08 422.08 600 400 600C377.92 600 360 582.08 360 560C360 537.92 377.92 520 400 520C422.08 520 440 537.92 440 560Z" id="c5RLh14cNZ"></path><path d="M520 560C520 582.08 502.08 600 480 600C457.92 600 440 582.08 440 560C440 537.92 457.92 520 480 520C502.08 520 520 537.92 520 560Z" id="aNpMaG5ji"></path><path d="M600 560C600 582.08 582.08 600 560 600C537.92 600 520 582.08 520 560C520 537.92 537.92 520 560 520C582.08 520 600 537.92 600 560Z" id="fuafVPVL6"></path></defs><g><g><g><use xlink:href="#bbnRYkCWJ0" opacity="1" fill="#887eab" fill-opacity="1"></use></g><g><use xlink:href="#e29OSMTTtx" opacity="1" fill="#8b7daf" fill-opacity="1"></use></g><g><use xlink:href="#d3Qna95EoL" opacity="1" fill="#8b7daf" fill-opacity="1"></use></g><g><use xlink:href="#b24CQGEmyZ" opacity="1" fill="#d2d6da" fill-opacity="1"></use></g><g><use xlink:href="#bQPS3YVbJ" opacity="1" fill="#d1d6db" fill-opacity="1"></use></g><g><use xlink:href="#a2T4RbZ9RD" opacity="1" fill="#887eab" fill-opacity="1"></use></g><g><use xlink:href="#eNatbMAQr" opacity="1" fill="#887eab" fill-opacity="1"></use></g><g><use xlink:href="#cocn2oEs" opacity="1" fill="#887eab" fill-opacity="1"></use></g><g><use xlink:href="#b2gGVK0txv" opacity="1" fill="#887eab" fill-opacity="1"></use></g><g><use xlink:href="#c5RLh14cNZ" opacity="1" fill="#887eab" fill-opacity="1"></use></g><g><use xlink:href="#aNpMaG5ji" opacity="1" fill="#887eab" fill-opacity="1"></use></g><g><use xlink:href="#fuafVPVL6" opacity="1" fill="#887eab" fill-opacity="1"></use></g></g></g></svg>
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g>
+        <g transform="matrix(1.03704,0,0,0.977778,-25.4815,16)">
+            <ellipse cx="148" cy="90" rx="108" ry="90" style="fill:rgb(136,126,171);"/>
+        </g>
+        <g transform="matrix(0.875,0,0,1.2,16,-16)">
+            <rect x="0" y="100" width="256" height="100" style="fill:rgb(136,126,171);"/>
+        </g>
+        <g transform="matrix(0.8,0,0,0.864865,-16,32.4324)">
+            <ellipse cx="60" cy="221.5" rx="20" ry="18.5" style="fill:rgb(136,126,171);"/>
+        </g>
+        <g transform="matrix(0.8,0,0,0.864865,16,32.4324)">
+            <ellipse cx="60" cy="221.5" rx="20" ry="18.5" style="fill:rgb(136,126,171);"/>
+        </g>
+        <g transform="matrix(0.8,0,0,0.864865,48,32.4324)">
+            <ellipse cx="60" cy="221.5" rx="20" ry="18.5" style="fill:rgb(136,126,171);"/>
+        </g>
+        <g transform="matrix(0.8,0,0,0.864865,80,32.4324)">
+            <ellipse cx="60" cy="221.5" rx="20" ry="18.5" style="fill:rgb(136,126,171);"/>
+        </g>
+        <g transform="matrix(0.8,0,0,0.864865,112,32.4324)">
+            <ellipse cx="60" cy="221.5" rx="20" ry="18.5" style="fill:rgb(136,126,171);"/>
+        </g>
+        <g transform="matrix(0.8,0,0,0.864865,144,32.4324)">
+            <ellipse cx="60" cy="221.5" rx="20" ry="18.5" style="fill:rgb(136,126,171);"/>
+        </g>
+        <g transform="matrix(0.8,0,0,0.864865,176,32.4324)">
+            <ellipse cx="60" cy="221.5" rx="20" ry="18.5" style="fill:rgb(136,126,171);"/>
+        </g>
+    </g>
+    <g>
+        <g transform="matrix(1,0,0,1,-16,32)">
+            <circle cx="80" cy="80" r="16" style="fill:rgb(253,255,254);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,64,32)">
+            <circle cx="80" cy="80" r="16" style="fill:rgb(253,255,254);"/>
+        </g>
+    </g>
+</svg>
